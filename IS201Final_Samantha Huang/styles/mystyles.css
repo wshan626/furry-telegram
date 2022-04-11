@@ -1,0 +1,37 @@
+.personalweb {
+    color:antiquewhite;
+    font-family: Aharoni, Verdana, Geneva;
+}
+.subhead {
+    font-size: 20px;
+}
+.SHstyle{
+    color: white;
+    border: dotted 1px black;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.listheading{
+    font-weight: bold;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bulletpoint{
+    font-weight: normal;
+}
+.piccenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.anchor{
+    color:white;
+    font-size: 14px;
+}
+
+.toptext{
+    font-size: 16px;
+    text-decoration-line: underline;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: ghostwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subheader{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    float: right;
+} 
+
+.header {
+    top: 60px;
+    left: 5px;
+    right: 5px;
+    font: 24px bolded;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none; 
+}
+
+.caption{
+    text-align: center;
+    font: 18px;
+}
+
+.tableau{
+    resize: both;
+    overflow: auto;
+}
+
+.footer{
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 10px;
+    color: #888888;
+    text-align: center;
+}
